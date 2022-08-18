@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @log-satyam
+- 👋 Hi, I’m @Satyam
 - 👀 I’m interested in Maachine Learning and Deep Learning.
 - 🌱 I’m currently learning Computer Vision.
 - 💞️ I’m looking to work/learn in this amazing field and also to work on some real world Data driven problems. 
