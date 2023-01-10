@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Satyam
-- 👀 I’m interested in Maachine Learning and Deep Learning.
-- 🌱 I’m currently learning Computer Vision.
-- 💞️ I’m looking to work/learn in this amazing field and also to work on some real world Data driven problems. 
+- 👀 I’m a Machine Learning Enthusiast with a hunger to explore new ways to solve real world problems.
+- 🌱 Looking to work and contribute in this evolving field of AI.
+- 💞️ "Nothing is impossible" - Andrew Carnegie
+-     My favorite line. 
 
 
 <!---
