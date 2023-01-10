@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Satyam
 - 👀 I’m a Machine Learning Enthusiast with a hunger to explore new ways to solve real world problems.
 - 🌱 Looking to work and contribute in this evolving field of AI.
-- 💞️ "Nothing is impossible" - Andrew Carnegie
--     My favorite line. 
+- 💞️ "Nothing is impossible" - Andrew Carnegie 
 
 
 <!---
