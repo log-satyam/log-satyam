@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satyam
+- 👋 Hi, I’m Satyam Singh
 - 👀 I’m a Machine Learning Enthusiast with a hunger to explore new ways to solve real world problems.
 - 🌱 Looking to work and contribute in this evolving field of AI.
 - 💞️ "Nothing is impossible" - Andrew Carnegie 
